@@ -5,6 +5,6 @@ Hier findest du alle wichtigen Informationen.
 
 ## Inhalt
 
-- Einrichtung des Projekts
-- Hauptfunktionen
-- Übersicht der Dokumentation
+- [Einrichtung des Projekts](docs/setup.md)
+- [Hauptfunktionen](docs/features.md)
+- [Übersicht der Dokumentation](index.md)
